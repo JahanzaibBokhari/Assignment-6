@@ -7,7 +7,7 @@ other source
 * 
 * Name: Jahanzaib Bokhari, Student ID: 101633204, Date: 2022-11-27
 *
-* Your app’s URL (from Cyclic) : https://sore-lime-cougar-wig.cyclic.app
+* Your app’s URL (from Cyclic) : https://wide-eyed-overalls-hen.cyclic.app/
 *
 *************************************************************************/
 
